@@ -1,0 +1,79 @@
+.btngrp{
+    margin: 0 0 0 740px;
+    display: flex;
+}
+/* .Container{
+    width: 416px;
+    height: 479px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+.btnLG{
+    margin: 0 0 0 780px;
+    border: 2px solid    #613D2B;
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: #613D2B;
+}
+.btnLG:hover{
+    transition: 300ms;
+    background-color: #613D2B;
+    color: white;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 5px 0px, rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.btnRG{
+    border: 2px solid    #613D2B;
+    background-color:#613D2B ;
+    width: 100px;
+    height: 30px;
+    font-size: 14px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
+}
+.btnRG:hover{
+    background-color: #613D2B;
+    border: 2px solid white;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 5px 0px, rgba(17, 17, 26, 0.1) 0px 0px 16px;
+}
+.input{
+    padding: 0 0 0 8px;
+    width: 350px;
+    height: 50px;
+    margin-top: 20px;
+    background-color:  rgba(97, 61, 43, 0.25);
+   border: 2px solid #613D2B;
+   border-radius: 5px;
+}
+
+.btndown{
+    width: 350px;
+    height: 50px;
+    /* margin-left: 0%; */
+    background-color:   rgba(97, 61, 43, 1);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-size: 18px;
+    font-weight: 900;
+
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.onclick1{
+    margin: 0 70px 0 0;
+}
+.login1{
+    font-size: 36px;
+    font-weight: 900;
+    color: rgba(97, 61, 43, 1);
+}

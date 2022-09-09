@@ -1,0 +1,137 @@
+span{
+    display: block;
+}
+ul{
+    list-style-type: none;
+}
+.container{
+
+    /* border: 1px solid black; */
+    margin: 70px 0 0 90px;
+        display: flex;
+        flex-direction: row;
+}
+.image{
+    /* border: 1px solid black; */
+    width: 180px;
+    height: 221.79px;
+    overflow: hidden ;
+}
+.imgp{
+    /* width:100%; */
+    width: 180px;
+    height: 221.79px;
+    justify-content: center;
+    align-items: center;
+    /* overflow: hidden ; */
+}
+.ProfileLeft{
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: row;
+}
+.img1{
+    /* margin: 0 70px 0 0; */
+    width: 80px;
+    height: 120px;
+
+}
+.ProfileRight{
+    display: flex;
+    /* flex-direction: row; */
+}
+.qrRight{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 0 0 70px;
+    /* border: 1px solid black; */
+}
+.imgtt{
+    width: 73px;
+    margin-bottom: 5px;
+    height: 22px;
+}
+.wrapproduct{
+    /* border: 1px solid black; */
+    display: flex;
+    width: 524px;
+    height: 145px;
+    background-color: 
+    #F6E6DA;
+    justify-content: center;
+    align-items: center;  
+    margin: 0 0 0 300px;
+}
+
+.bgt9{
+    display: flex;
+    margin-top: 10px;
+    background-color: rgba(255, 153, 0, 0.478) ;
+    border-radius: 2px;
+        justify-content: center;
+    /* align-items: center; */
+    width: 112px;
+    height: 19px;
+}
+
+
+/* font */
+/* profil */
+.text1{
+    font-size: 18px;
+    font-weight: 800;
+    color: rgba(97, 61, 43, 1);
+}
+.text2{
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(0, 0, 0, 1);
+}
+.text3{
+    margin-bottom: 30px;
+    font-size: 24px;
+    font-weight: 900;
+    color: rgba(97, 61, 43, 1);
+}
+/* card */
+
+.text4{
+    font-size: 19px;
+    font-weight: 900;
+    color: rgba(97, 61, 43, 1);
+}
+.text5{
+    font-size: 9px;
+    font-weight: 900;
+    color: rgba(97, 61, 43, 1);
+    
+}
+.text6{
+    font-size: 12px;
+    font-weight: 900;
+}
+
+.text7{
+    font-size: 10px;
+    font-weight: 400;
+   color:  rgba(151, 74, 74, 1);
+}
+.text8{
+    font-size: 10px;
+    font-weight: 900;
+   color:  rgba(151, 74, 74, 1);
+}
+
+.text9{
+    font-size: 10px;
+    font-weight: 500;
+    color: rgba(255, 153, 0, 1);
+}
+.text10{
+    margin: 0 0 30px 300px;
+    font-size: 24px;
+    font-weight: 900;
+    color: rgba(97, 61, 43, 1);
+}

@@ -1,0 +1,12 @@
+body {
+
+    background-color: #E5E5E5;
+}
+@font-face {
+    font-family: 'Avenir';
+    src: url("../assets//avenir_ff/AvenirLTStd-Book.otf")
+}
+* {
+    font-family: 'Avenir';
+}
+
